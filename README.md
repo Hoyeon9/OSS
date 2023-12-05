@@ -1,4 +1,10 @@
+<p style="position: relative;">
+    <img src="https://capsule-render.vercel.app/api?type=Rect&color=0:000,60:02071e&height=200&text=Codemos&fontColor=fff" alt="Image 1" style="position: absolute; left: 0; top: 0;">
+    <img src="logo.png" alt="Image 2" style="position: absolute; width: 20%; top:0;">
+</p>
+
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=0:000,60:02071e&height=200&text=Codemos&fontColor=fff)
+![Logo](logo.png)
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20RECT%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Use%20%27textBg%27%20to%20highlight%20%27text%27&descAlign=60&descAlignY=50)
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
 
