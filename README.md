@@ -32,32 +32,32 @@ CodeMos는 추락하는 우주선 :rocket: 을 직접 코드를 작성하여  �
    1. [Subsection 2.1](#subsection-2.1)
    2. [Subsection 2.2](#subsection-2.2)
 
-## Introduction {#introduction}
+## Introduction
 
 Your introduction content goes here.
 
-## Section 1 {#section-1}
+## Section 1
 
 1. [Subsection 1.1](#subsection-1.1)
 2. [Subsection 1.2](#subsection-1.2)
 
-### Subsection 1.1 {#subsection-1.1}
+### Subsection 1.1
 
 Content for subsection 1.1.
 
-### Subsection 1.2 {#subsection-1.2}
+### Subsection 1.2
 
 Content for subsection 1.2.
 
-## Section 2 {#section-2}
+## Section 2
 
 1. [Subsection 2.1](#subsection-2.1)
 2. [Subsection 2.2](#subsection-2.2)
 
-### Subsection 2.1 {#subsection-2.1}
+### Subsection 2.1
 
 Content for subsection 2.1.
 
-### Subsection 2.2 {#subsection-2.2}
+### Subsection 2.2
 
 Content for subsection 2.2.
